@@ -38,7 +38,55 @@ App de previsão do tempo que consome a API da OpenWeatherMap. Digite qualquer c
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+# 🍕 Cardápio Digital - Pizzaria
 
+Projeto simples de uma página de cardápio digital desenvolvido com HTML e CSS.
+
+## 🚀 Objetivo
+
+Praticar conceitos de front-end como:
+- Estrutura HTML
+- Estilização com CSS
+- Layout responsivo
+
+## 🖥️ Preview
+
+![preview](https://via.placeholder.com/800x400)
+
+## 📂 Estrutura
+
+- index.html
+- style.css
+
+## 📱 Responsividade
+
+O layout se adapta para:
+- celulares
+- tablets
+- desktop
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+## 📌 Funcionalidades
+
+- Exibição de produtos
+- Preços
+- Layout moderno
+- Design responsivo
+
+## 🎯 Melhorias futuras
+
+- [ ] Adicionar JavaScript
+- [ ] Filtro por categorias
+- [ ] Carrinho de compras
+- [ ] Integração com API
+
+## 👨‍💻 Autor
+
+Seu nome aqui
 ---
 
 ## ✨ Funcionalidades
