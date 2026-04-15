@@ -30,7 +30,60 @@ Sou desenvolvedor front-end júnior, apaixonado por criar interfaces web bonitas
 ---
 
 ## 📂 Projetos em Destaque
+# ☁️ Clima Agora
 
+App de previsão do tempo que consome a API da OpenWeatherMap. Digite qualquer cidade do mundo e veja temperatura, umidade, vento e mais — em tempo real.
+
+![Preview](https://img.shields.io/badge/status-concluído-brightgreen?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## ✨ Funcionalidades
+
+- 🔍 Busca por nome de cidade (qualquer cidade do mundo)
+- 🌡️ Temperatura atual e sensação térmica
+- 💧 Umidade, vento, visibilidade e min/máx do dia
+- 🌤️ Ícone dinâmico conforme o clima
+- ⌨️ Busca ao pressionar Enter
+- 📱 Layout responsivo
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3 (animações, glassmorphism, variáveis CSS)
+- JavaScript puro (Fetch API, async/await)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/LucasRodrigues210598/clima-agora.git
+```
+
+2. Crie uma conta gratuita em [openweathermap.org](https://openweathermap.org) e gere sua API Key
+
+3. Abra o arquivo `index.html` e substitua:
+```javascript
+const API_KEY = 'SUA_CHAVE_AQUI';
+```
+pela sua chave real.
+
+4. Abra o `index.html` no navegador — pronto!
+
+## 📁 Estrutura
+
+```
+clima-agora/
+└── index.html   # Todo o app em um único arquivo
+```
+
+---
+
+Desenvolvido por [Lucas Rodrigues](https://github.com/LucasRodrigues210598)
 ---
 
 ## 📊 GitHub Stats
