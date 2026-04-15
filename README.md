@@ -49,9 +49,6 @@ Praticar conceitos de front-end como:
 - Estilização com CSS
 - Layout responsivo
 
-## 🖥️ Preview
-
-![preview](https://via.placeholder.com/800x400)
 
 ## 📂 Estrutura
 
@@ -86,7 +83,7 @@ O layout se adapta para:
 
 ## 👨‍💻 Autor
 
-Seu nome aqui
+Lucas de souza Rodrigues
 ---
 
 ## ✨ Funcionalidades
