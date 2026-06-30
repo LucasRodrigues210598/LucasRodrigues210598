@@ -91,7 +91,7 @@ Recursos:
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com
+📧 Email: Lucasrodrigues21059@gmail.com  
 
 💼 LinkedIn:
 https://linkedin.com/in/lucas-souza-rodrigues-34b066233
